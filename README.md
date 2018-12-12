@@ -1,4 +1,4 @@
 # test-2
-git checkout -b lepanova
+git branch lepanova
 #Лепанова
 #ПИ2-1
